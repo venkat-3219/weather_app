@@ -25,12 +25,12 @@ Watch the recorded demo:
       <td align="center">
         <img src="demo.jpeg" alt="Weather app - Phone view" width="280" />
         <br />
-        <b>Phone Preview</b>
+        <b>proof: Default phone weather app</b>
       </td>
       <td align="center">
         <img src="demo1.jpeg" alt="Weather app - Desktop view" width="280" />
         <br />
-        <b>Desktop Preview</b>
+        <b>Demo</b>
       </td>
     </tr>
   </table>
