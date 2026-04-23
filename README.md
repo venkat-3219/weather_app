@@ -1,6 +1,27 @@
-# Weather App
+<h1 align="center">Weather App</h1>
 
-A modern desktop Weather App built with Python and PyQt5 that fetches real-time weather data from the OpenWeatherMap API.
+<p align="center">
+	A modern desktop Weather App built with Python and PyQt5 that fetches real-time weather data from the OpenWeatherMap API.
+</p>
+
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=900&center=true&vCenter=true&width=700&lines=Real-time+Weather+Search;Modern+PyQt5+Desktop+Interface;OpenWeatherMap+API+Integration;Clean+UX+and+Friendly+Error+Handling" alt="Animated project intro" />
+</p>
+
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=header" alt="Animated wave divider" />
+</p>
+
+## Demo Images & Video
+
+Watch the recorded demo:
+
+- [Watch Demo Video](Demo.mp4)
+- [View proof image from My phone weather app ](demo.jpeg)
+
+<p align="center">
+	<img src="demo.jpeg" alt="Weather app preview" width="320" />
+</p>
 
 ## Why This Project Stands Out
 
@@ -9,13 +30,6 @@ A modern desktop Weather App built with Python and PyQt5 that fetches real-time 
 - Friendly visual feedback with weather emoji and readable status messages
 - Handles common network and API errors gracefully
 - Beginner-friendly code structure with clear widget and logic separation
-
-## Tech Stack
-
-- Python 3
-- PyQt5 (desktop UI)
-- Requests (API calls)
-- OpenWeatherMap API
 
 ## Features
 
@@ -29,14 +43,6 @@ A modern desktop Weather App built with Python and PyQt5 that fetches real-time 
 	- Unauthorized API access
 	- Network failures/timeouts
 	- Server-side API issues
-
-## Project Structure
-
-```text
-Weather APP/
-├── main.py
-└── Readme.md
-```
 
 ## Quick Start
 
@@ -76,6 +82,21 @@ Get a free key from: https://openweathermap.org/api
 python3 main.py
 ```
 
+## Tech Stack
+
+- Python 3
+- PyQt5 (desktop UI)
+- Requests (API calls)
+- OpenWeatherMap API
+
+## Project Structure
+
+```text
+Weather APP/
+├── main.py
+└── Readme.md
+```
+
 ## Demo Checklist (For Presentation)
 
 Use this flow to impress users quickly:
@@ -98,3 +119,7 @@ Use this flow to impress users quickly:
 Made with Python and PyQt5.
 
 If this project helped you, consider starring the repository.
+
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=90&section=footer" alt="Animated footer wave" />
+</p>
