@@ -12,30 +12,6 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=header" alt="Animated wave divider" />
 </p>
 
-## Demo Images & Video
-
-Watch the recorded demo:
-
-- [Watch Demo Video YouTube URL:](https://youtu.be/-lTIGDLnd6U?si=TfwWjLT3ErdktS3n)
-- View App screenshots below with proof : 
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="demo.jpeg" alt="Weather app - Phone view" width="280" />
-        <br />
-        <b>proof: Default phone weather app</b>
-      </td>
-      <td align="center">
-        <img src="demo1.jpeg" alt="Weather app - Desktop view" width="280" />
-        <br />
-        <b>Demo</b>
-      </td>
-    </tr>
-  </table>
-</p>
-
 ## Why This Project Stands Out
 
 - Glassmorphism-inspired UI with a clean, premium look
@@ -132,6 +108,30 @@ Use this flow to impress users quickly:
 Made with Python and PyQt5.
 
 If this project helped you, consider starring the repository.
+
+<h1 align="center"> Demo Images & Video </h1>
+
+Watch the recorded demo:
+
+- [Watch Demo Video YouTube URL:](https://youtu.be/-lTIGDLnd6U?si=TfwWjLT3ErdktS3n)
+- View App screenshots below with proof : 
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="demo.jpeg" alt="Weather app - Phone view" width="280" />
+        <br />
+        <b>proof: Default phone weather app</b>
+      </td>
+      <td align="center">
+        <img src="demo1.jpeg" alt="Weather app - Desktop view" width="280" />
+        <br />
+        <b>Demo</b>
+      </td>
+    </tr>
+  </table>
+</p>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=90&section=footer" alt="Animated footer wave" />
