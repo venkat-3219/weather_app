@@ -16,11 +16,24 @@
 
 Watch the recorded demo:
 
-- [Watch Demo Video](Demo.mp4)
-- [View proof image from My phone weather app ](demo.jpeg)
+- [Watch Demo Video YouTube URL:](https://youtu.be/-lTIGDLnd6U?si=TfwWjLT3ErdktS3n)
+- View App screenshots below with proof : 
 
 <p align="center">
-	<img src="demo.jpeg" alt="Weather app preview" width="320" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="demo.jpeg" alt="Weather app - Phone view" width="280" />
+        <br />
+        <b>Phone Preview</b>
+      </td>
+      <td align="center">
+        <img src="demo1.jpeg" alt="Weather app - Desktop view" width="280" />
+        <br />
+        <b>Desktop Preview</b>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ## Why This Project Stands Out
